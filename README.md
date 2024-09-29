@@ -1,4 +1,4 @@
-# Inventory Management System Project
+# Inventory Management System
 
 This repository contains code for an inventory management system implemented in Python.
 
